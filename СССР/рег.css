@@ -1,0 +1,323 @@
+.рег{
+
+	position: absolute;
+	width: 980px;
+	height: 645px;
+	left: 393px;
+	top: 196px;
+
+	background: #C4C4C4;
+	border-radius: 20px;
+
+}
+
+.текст78{
+	
+	position: absolute;
+	width: 330px;
+	height: 50px;
+	left: 718px;
+	top: 180px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+	text-align: center;
+
+	color: #FFFFFF;
+
+
+}
+
+.фам{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 393px;
+	top: 290px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.им{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 741px;
+	top: 290px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.оч{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 1073px;
+	top: 290px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.сер{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 393px;
+	top: 382px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+
+	color: #ffffff;
+	
+	
+
+}
+
+.номт{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 741px;
+	top: 382px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 47px;
+
+	color: #ffffff;
+	
+}
+
+.код{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 1073px;
+	top: 382px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+	
+}
+
+.тел{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 568px;
+	top: 481px;
+
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.дат{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 906px;
+	top: 481px;
+
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.подвалр{
+
+	position: absolute;
+	width: 1900px;
+	height: 140px;
+	left: 0px;
+	top: 847px;
+
+	background: #C7A4A4;
+
+}
+
+.довр{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #ffffff;	
+
+	position: absolute;
+	width: 440px;
+	height: 900px;
+	left: 1460px;
+	top: 0px;
+
+	background: #500000;
+}
+
+.пар{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 733px;
+	top: 580px;
+
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+
+.парп{
+	
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 733px;
+	top: 679px;
+	
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+	
+}
+
+.зарег{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 1073px;
+	top: 791px;
+
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+.зарег:hover{
+	background: #aa6262; }
+
+.сброс{
+
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 393px;
+	top: 791px;
+
+	background: #500000;
+	border-radius: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 47px;
+
+	color: #ffffff;
+
+}
+.сброс:hover{
+	background: #aa6262; }
+
+	

@@ -1,0 +1,197 @@
+p1{
+    font-size:25px;
+    margin-top:0%;
+    margin-left:30%;
+}
+
+.hor{
+    font-size:17px;
+    margin-left:80%;
+    margin-top:-10%;
+    font-style:italic;
+}
+
+.avatar{
+    position:absolute;
+    left: 250px;
+    top: 250px;
+    width: 100px;
+    height: 100px;
+}
+
+.kab{
+    position:absolute;
+    margin-top:-12%;
+    margin-left:-67%;
+    font-size:40px;
+    color:red;
+    font-style:normal;
+}
+
+.dan{
+    position:absolute;
+    margin-top:-3%;
+    margin-left:20%;
+    font-style:italic;
+}
+
+.dan1{
+    position:absolute;
+    margin-top:-3%;
+    margin-left:30%;
+    font-style:italic;
+}
+
+.scroll{
+    overflow:hidden;
+    height:1300px;
+}
+
+.подвалл{
+
+	position: absolute;
+	width: 1900px;
+	height: 140px;
+	left: 0px;
+	top: 828px;
+
+	background: #C7A4A4;
+
+}
+
+.довл{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #ffffff;	
+
+	position: absolute;
+	width: 440px;
+	height: 850px;
+	left: 1460px;
+	top: 0px;
+
+	background: #500000;
+}
+
+.his{
+
+    position: absolute;
+    width: 700px;
+    height: 480px;
+    left: 726px;
+    top: 208px;
+
+    background: #C4C4C4;
+    border-radius: 20px;
+
+}
+
+.text{
+
+    position: absolute;
+    left: 750px;
+    top: 208px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+    color: #FFFFFF;
+    
+}
+
+.his1{
+
+    position: absolute;
+    width: 645px;
+    height: 97px;
+    left: 746px;
+    top: 293px;
+
+    background: #500000;
+    border-radius: 25px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 47px;
+
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.his2{
+
+    position: absolute;
+    width: 645px;
+    height: 97px;
+    left: 746px;
+    top: 425px;
+
+    background: #500000;
+    border-radius: 25px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 47px;
+
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.his3{
+
+    position: absolute;
+    width: 645px;
+    height: 97px;
+    left: 746px;
+    top: 557px;
+
+    background: #500000;
+    border-radius: 25px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 47px;
+
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.histpop{
+
+    position: absolute;
+    width: 455px;
+    height: 40px;
+    left: 912px;
+    top: 396px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 47px;
+
+    color: #000000;
+    
+}
+.histpop:hover{
+    color: #cf1c1c;
+}
+

@@ -1,0 +1,154 @@
+.карта{
+	position: absolute;
+	left: 459px;
+	top: 200px;
+}
+.текстф{
+
+	position: absolute;
+	width: 700px;
+	height: 10px;
+	left: 750px;
+	top: -60px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 75px;
+	float: center;
+
+	color: #000000;
+
+}
+
+.кор{
+
+	position: absolute;
+	width: 700px;
+	height: 10px;
+	left: 459px;
+	top: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 75px;
+	float: center;
+
+	color: #000000;
+
+}
+
+.довф{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #ffffff;	
+
+	position: absolute;
+	width: 440px;
+	height: 980px;
+	left: 1460px;
+	top: 0px;
+
+	background: #500000;
+}
+
+.cum{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #500000;
+	
+	position: absolute;
+	width: 400px;
+	height: 50px;
+	left: 25px;
+	top: 125px;
+}
+
+.cum1{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #500000;
+	
+	position: absolute;
+	width: 400px;
+	height: 50px;
+	left: 25px;
+	top: 350px;
+}
+
+.cum2{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #500000;
+	
+	position: absolute;
+	width: 400px;
+	height: 50px;
+	left: 25px;
+	top: 590px;
+}
+
+.подвалф{
+
+	position: absolute;
+	width: 1900px;
+	height: 140px;
+	left: 0px;
+	top: 847px;
+
+	background: #C7A4A4;
+
+}
+
+.фотк{
+
+	position: absolute;
+	width: 250px;
+	height: 150px;
+	left: 95px;
+	top: 220px;
+
+}
+
+.фотк1{
+
+	position: absolute;
+	width: 250px;
+	height: 150px;
+	left: 95px;
+	top: 450px;
+
+}
+
+.фотк2{
+
+	position: absolute;
+	width: 250px;
+	height: 150px;
+	left: 95px;
+	top: 685px;
+
+}

@@ -1,0 +1,116 @@
+.регв{
+
+    position: absolute;
+    width: 396px;
+    height: 374px;
+    left: 685px;
+    top: 312px;
+    
+    background: #C4C4C4;
+    border-radius: 20px;
+
+}
+
+.текст45{
+
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    left: 726px;
+    top: 300px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.телв{
+
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 726px;
+    top: 406px;
+
+    background: #500000;
+    border-radius: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #ffffff;
+
+}
+
+.парв{
+
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 726px;
+    top: 491px;
+
+    background: #500000;
+    border-radius: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #ffffff;
+
+}
+
+.довв{
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	color: #ffffff;	
+
+	position: absolute;
+	width: 440px;
+	height: 900px;
+	left: 1460px;
+	top: 0px;
+
+	background: #500000;
+}
+
+.входв{
+
+    position: absolute;
+    width: 159px;
+    height: 50px;
+    left: 867px;
+    top: 584px;
+
+    background: #500000;
+    border-radius: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #ffffff;
+
+}
+.входв:hover{
+    background: #aa6262;
+}
